@@ -1,0 +1,4 @@
+function theImitationGame(input) {
+    
+}
+theImitationGame()
